@@ -5,9 +5,9 @@ A modern Discord control panel with a **Multi-bot-inspired UI**, while using an 
 
 ## Features
 
-- Bot token authentication
+- Bot token authentication = NEEDED BOT TOKEN 
 - Bot status
-- Server listing
+- Server listing - `DISCORD_BOT_TOKEN`
 - Refresh controls
 - Bot-to-user DMs
 - Connection-request style interface
