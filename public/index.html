@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Discord Bot Dashboard</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <main>
+    <section class="card">
+      <h2>Send DM</h2>
+
+      <label for="username">Username</label>
+      <input
+        id="username"
+        type="text"
+        placeholder="myhoodz"
+        autocomplete="off"
+      >
+
+      <label for="message">Message</label>
+      <textarea
+        id="message"
+        maxlength="2000"
+        placeholder="Enter your message..."
+      >I'd like to connect with you!</textarea>
+
+      <div class="actions">
+        <button id="dm" type="button">Send DM</button>
+        <button id="friend" type="button">Connection Request</button>
+      </div>
+
+      <pre id="result"></pre>
+    </section>
+  </main>
+
+  <script src="/app.js"></script>
+</body>
+</html>
