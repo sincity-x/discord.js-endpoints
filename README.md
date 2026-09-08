@@ -1,6 +1,7 @@
-# Discord Self-Bot-Inspired Dashboard
+# Discord Multi-Bot-Inspired Dashboard
 
-A modern Discord control panel with a **self-bot-inspired UI**, while using an official Discord bot account for authentication.
+
+A modern Discord control panel with a **Multi-bot-inspired UI**, while using an official Discord bots for authentication.
 
 ## Features
 
